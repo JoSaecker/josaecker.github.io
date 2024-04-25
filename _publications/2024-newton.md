@@ -1,7 +1,7 @@
 ---
 title: "Solving Linear DSGE Models with Newton Methods"
 collection: publications
-permalink: /publication/Newton_methods
+permalink: /publication/2024-newton
 excerpt: 'Six Newton methods for solving matrix quadratic equations in linear DSGE models. Newton methods more accurate than QZ with comparable computation burden.'
 date: 2024-04
 venue: 'Economic Modelling 133'
