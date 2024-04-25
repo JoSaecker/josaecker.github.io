@@ -10,3 +10,6 @@ location: "Frankfurt am Main, Germany"
 
 PhD courses
 ======
+Linear Algebra and Matlab, PhD Programme Pre-Semester Course GSEFM (Fall 2023)
+
+Field Course Advanced Macroeconomics (Prof. Dr. A. Meyer-Gohde) (Spring 2023)
