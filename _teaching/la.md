@@ -8,8 +8,7 @@ date: 2023-01-01
 location: "Frankfurt am Main, Germany"
 ---
 
-Linear Algebra and Matlab (lecture)
-============================================
+
 Linear Algebra and Matlab, PhD Programme Pre-Semester Course GSEFM 
 Date: Fall 2023
 
