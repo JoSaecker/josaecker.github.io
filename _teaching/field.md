@@ -8,7 +8,6 @@ date: 2023-01-01
 location: "Frankfurt am Main, Germany"
 ---
 
-#Advanced Macroeconomics
-#============================
+
 Instructor: Prof. Dr. A. Meyer-Gohde
 Date: Spring 2023
