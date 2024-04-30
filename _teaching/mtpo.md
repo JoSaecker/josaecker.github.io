@@ -4,16 +4,18 @@ collection: teaching
 type: "Master courses"
 permalink: /teaching/mtpo
 venue: "Goethe University Frankfurt"
-date: 2015-01-01
+date: 2023-01-01
 location: "Frankfurt am Main, Germany"
 ---
 
 Monetary Theory and Policy (Tutorial)
 ==========================================
-Monetary Theory and Policy (Prof. Dr. A. Meyer-Gohde) (Spring 2023)
-
 This course introduces students to the dynamic stochastic general equilibrium (DSGE) models used in modern monetary macroeconomics called New Keynesian models. The basic model equations including nominal frictions such as price stickiness are derivedcarefully, and model solution techniques are discussed. Numerical solutions of the models are obtained and the models are simulated and analyzed using Dynare in MATLAB. Possible extensions to the core model that may be treated in class include an analysis of optimal monetary policy.
 
+Instructors: Prof. Dr. A. Meyer-Gohde (exception: Prof. Dr. M. Trabandt in Fall 2021)
+Dates: Spring 2023
+
+Course Outline
 1. Introduction
 Concepts/techniques: Real Business Cycles versus New Keynesianism
 Main readings: Galí (2008), ch. 1
