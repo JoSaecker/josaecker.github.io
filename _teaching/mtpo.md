@@ -2,7 +2,7 @@
 title: "Master courses"
 collection: teaching
 type: "Master courses"
-permalink: /teaching/Master-courses
+permalink: /teaching/mtpo
 venue: "Goethe University Frankfurt"
 date: 2015-01-01
 location: "Frankfurt am Main, Germany"
