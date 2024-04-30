@@ -1,5 +1,5 @@
 ---
-title: "Advanced Macroeconomics (tutorial)"
+title: "Advanced Macroeconomics (Tutorial)"
 collection: teaching
 type: "PhD courses"
 permalink: /teaching/field
