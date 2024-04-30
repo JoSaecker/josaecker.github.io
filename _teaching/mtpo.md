@@ -1,5 +1,5 @@
 ---
-title: "Master courses"
+title: "Monetary Theory and Policy (Tutorial)"
 collection: teaching
 type: "Master courses"
 permalink: /teaching/mtpo
