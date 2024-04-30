@@ -1,13 +1,16 @@
 ---
-title: "PhD courses"
+title: "Linear Algebra and Matlab (lecture)"
 collection: teaching
 type: "PhD courses"
 permalink: /teaching/la
 venue: "Goethe University Frankfurt"
-date: 2014-01-01
+date: 2023-01-01
 location: "Frankfurt am Main, Germany"
 ---
 
-PhD courses
-======
-Linear Algebra and Matlab, PhD Programme Pre-Semester Course GSEFM (Fall 2023)
+Linear Algebra and Matlab (lecture)
+============================================
+Linear Algebra and Matlab, PhD Programme Pre-Semester Course GSEFM 
+Date: Fall 2023
+
+#Textbook: Linear Algebra, Gilbert Strang. 
