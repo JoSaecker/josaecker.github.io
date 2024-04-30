@@ -1,5 +1,5 @@
 ---
-title: "Linear Algebra and Matlab (lecture)"
+title: "Linear Algebra and Matlab (Lecture)"
 collection: teaching
 type: "PhD courses"
 permalink: /teaching/la
