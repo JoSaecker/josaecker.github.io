@@ -11,4 +11,4 @@ Welcome! I am a research assistant at the [Chair of Financial Markets and Macroe
 
 My research interests are macroeconomics, economics of the green transition and numerical methods. You can find my first publication [here](https://doi.org/10.1016/j.econmod.2024.106670). 
 
-You can find the presentation slides for the T2M Conference in Amsterdam [here](/files/042024_T2M.pdf). 
+You can find my presentation slides for the **T2M Conference in Amsterdam** [here](/files/042024_T2M.pdf). 
