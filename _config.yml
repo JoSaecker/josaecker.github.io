@@ -257,7 +257,7 @@ defaults:
   # _workinprogress
   - scope:
       path: ""
-      type: publications
+      type: workinprogress
     values:
       layout: single
       author_profile: true
