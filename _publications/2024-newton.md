@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-04-01
 venue: 'Economic Modelling 133'
 paperurl: 'https://doi.org/10.1016/j.econmod.2024.106670'
-citation: ''
+citation: 'Meyer-Gohde, Alexander and Johanna Saecker. (2024). Solving Linear DSGE Models with Newton Methods, Economic Modelling 133.'
 ---
 
 <img align="left" width="400" height="auto" src="/images/sw2_fe1.png">
