@@ -3,6 +3,9 @@ main:
   - title: "Research"
     url: /publications/
 
+  - title: "Work in progress"
+    url: /publications/
+
   #- title: "Work in progress"
     #url: /wip/    
 
@@ -11,9 +14,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Work in progress"
-    url: /workinprogress/
         
   #- title: "Blog Posts"
    # url: /year-archive/
