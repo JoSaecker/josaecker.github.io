@@ -2,11 +2,11 @@
 title: "Solving Linear DSGE Models with Newton Methods"
 collection: publications
 permalink: /publication/2024-newton
-excerpt: 'Six Newton methods for solving matrix quadratic equations in linear DSGE models. Newton methods more accurate than QZ with comparable computation burden.'
+excerpt: ''
 date: 2024-04-01
 venue: 'Economic Modelling 133'
 paperurl: 'https://doi.org/10.1016/j.econmod.2024.106670'
-citation: 'Meyer-Gohde, Alexander and Johanna Saecker. (2024). Solving Linear DSGE Models with Newton Methods, Economic Modelling 133 (106670).'
+citation: ''
 ---
 
 <img align="left" width="400" height="auto" src="/images/sw2_fe1.png">
