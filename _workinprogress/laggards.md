@@ -1,8 +1,8 @@
 ---
 title: "Investing in the Green Transition and Competition from Laggards"
-collection: workinprogress
+collection: publications
 permalink: /workinprogress/laggards
-excerpt: 'We use structure preserving doubling methods to solve the matrix quadratic underlying the recursive solution of linear DSGE models.'
+excerpt: 'We study heterogeneous firms' decision-making for investment into greening their production process.'
 date: 2024-08-24
 venue: 'working paper'
 paperurl: 'tbd'
