@@ -2,7 +2,7 @@
 title: "Investing in the Green Transition and Competition from Laggards"
 collection: publications
 permalink: /publication/laggards
-excerpt: 'Presented at: QCGBF 2024, EEA 2024, NOeG Annual Meeting 2024'
+excerpt: 'Presented at: EEA 2024, NOeG Annual Meeting 2024, QCGBF 2024 (poster)'
 date: 2024-08-24
 venue: ''
 paperurl: ''
