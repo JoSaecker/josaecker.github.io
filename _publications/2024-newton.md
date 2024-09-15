@@ -2,7 +2,7 @@
 title: "Solving Linear DSGE Models with Newton Methods"
 collection: publications
 permalink: /publication/2024-newton
-excerpt: ''
+excerpt: 'Presented at: IAAE 2022, CEF 2022, ESEM 2023'
 date: 2024-04-01
 venue: 'Economic Modelling 133'
 paperurl: 'https://doi.org/10.1016/j.econmod.2024.106670'
