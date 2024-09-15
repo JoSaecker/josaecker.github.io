@@ -2,7 +2,7 @@
 title: "Investing in the Green Transition and Competition from Laggards"
 collection: publications
 permalink: /publication/laggards
-excerpt: 'We study heterogeneous firms decision-making for investment into greening their production process.'
+excerpt: 'Presented at: QCGBF 2024, EEA 2024, NOeG Annual Meeting 2024'
 date: 2024-08-24
 venue: 'Mimeo'
 paperurl: 'tbd'
