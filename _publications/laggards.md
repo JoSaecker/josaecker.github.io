@@ -5,7 +5,7 @@ permalink: /publication/laggards
 excerpt: 'Presented at: QCGBF 2024, EEA 2024, NOeG Annual Meeting 2024'
 date: 2024-08-24
 venue: 'Mimeo'
-paperurl: 'tbd'
+paperurl: ''
 citation: 'Saecker, Johanna and Philip Schnattinger. (2024). Investing in the Green Transition and Competition from Laggards, Mimeo.'
 ---
 
