@@ -107,8 +107,8 @@ My research interests are macroeconomics, firm dynamics, climate change and comp
 <div class="paper-title"; style="padding-top:10px"><b><a href="https://doi.org/10.1016/j.econmod.2024.106670" target="_blank">Solving Linear DSGE Models with Newton Methods</a></b>, with <a href="https://www.meyer-gohde.com/" target="_blank">Alexander Meyer-Gohde</a><br></div>
 
 <div class="paper-journal"> <i> Economic Modelling, 133, 2024 </i> </div>
-<button class="btn btn-outline-secondary btn-sm btn-toggle" onclick="toggleAbstract(this)"> 
-<span style="border-width:1px; border-style:solid; padding-left:4px; padding-right:4px; padding-top:0px; padding-bottom:0px; border-radius:4px;"> Show Abstract </span></button>
+<button class="btn btn-sm btn-abstract" onclick="toggleAbstract(this)"> 
+<span style="border-width:1px; border-style:solid; padding-left:4px; padding-right:4px; padding-top:0px; padding-bottom:0px; border-radius:4px;"> Abstract </span></button>
               <div class="abstract">
 				  This paper presents and compares Newton-based methods from the applied mathematics literature for solving the matrix quadratic that underlies the recursive solution of linear DSGE models. The methods are compared using nearly 100 different models from the Macroeconomic Model Data Base (MMB) and different parameterizations of the monetary policy rule in the medium-scale New Keynesian model of Smets and Wouters (2007) iteratively. We find that Newton-based methods compare favorably in solving DSGE models, providing higher accuracy as measured by the forward error of the solution at a comparable computation burden. The methods, however, suffer from their inability to guarantee convergence to a particular, e.g. unique stable, solution, but their iterative procedures lend themselves to refining solutions either from different methods or parameterizations.
               </div>
@@ -183,7 +183,7 @@ VfS Annual Conference, Cologne 2025 &nbsp;&nbsp; | &nbsp;&nbsp; WIMFEH, Berlin 2
     const abs = btn.nextElementSibling;
     const show = abs.style.display !== 'block';
     abs.style.display = show ? 'block' : 'none';
-    btn.textContent = show ? 'Hide Abstract' : 'Show Abstract';
+    btn.textContent = show ? 'Hide' : 'Abstract';
   }
 </script>
 	
