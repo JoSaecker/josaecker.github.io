@@ -16,6 +16,10 @@ a{text-decoration: none;}
   background-color: white !important;
   color: rgb(0,0,160);
   border: 1px solid black;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
   border-radius: 4px;
 }
 
