@@ -11,7 +11,21 @@ a:active{color:rgb(0,0,160)}
 a:hover{color:rgb(0,0,160) text-decoration:underline;}
 a{text-decoration: none;}
 
+.btn-abstract {
+  background-color: white !important;
+  color: #0d6efd;            /* Bootstrap blue */
+  border: 1px solid black;
+  padding: 2px 6px;
+}
 
+.btn-abstract:hover,
+.btn-abstract:focus,
+.btn-abstract:active {
+  background-color: white !important;
+  color: #0d6efd;
+  border-color: black;
+  box-shadow: none;
+}
 
 
 /*---------------------------------------------------------*/
