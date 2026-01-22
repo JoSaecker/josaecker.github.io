@@ -11,24 +11,7 @@ a:active{color:rgb(0,0,160)}
 a:hover{color:rgb(0,0,160) text-decoration:underline;}
 a{text-decoration: none;}
 
-.btn-abstract {
-  background-color: white !important;
-  color: rgb(0,0,160);
-  border: 1px solid black;
-  padding: 4px 4px;
-  border-radius: 4px;
-}
 
-
-.btn-abstract:hover,
-.btn-abstract:focus,
-.btn-abstract:active {
-  background-color: white !important;
-  color: rgb(0,0,160);
-  border-color: black;
-  box-shadow: none;
-  text-decoration: underline; /* optional */
-}
 
 
 /*---------------------------------------------------------*/
