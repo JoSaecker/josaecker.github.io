@@ -13,18 +13,20 @@ a{text-decoration: none;}
 
 .btn-abstract {
   background-color: white !important;
-  color: #0d6efd;            /* Bootstrap blue */
+  color: rgb(0,0,160);
   border: 1px solid black;
   padding: 2px 6px;
+  border-radius: 6px;
 }
 
 .btn-abstract:hover,
 .btn-abstract:focus,
 .btn-abstract:active {
   background-color: white !important;
-  color: #0d6efd;
+  color: rgb(0,0,160);
   border-color: black;
   box-shadow: none;
+  text-decoration: underline; /* optional */
 }
 
 
