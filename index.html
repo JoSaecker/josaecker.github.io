@@ -177,5 +177,15 @@ VfS Annual Conference, Cologne 2025 &nbsp;&nbsp; | &nbsp;&nbsp; WIMFEH, Berlin 2
 </div>
 </content>
 </div>
+	
+	<script>
+  function toggleAbstract(btn) {
+    const abs = btn.nextElementSibling;
+    const show = abs.style.display !== 'block';
+    abs.style.display = show ? 'block' : 'none';
+    btn.textContent = show ? 'Hide Abstract' : 'Show Abstract';
+  }
+</script>
+	
 </body>
 </html>
